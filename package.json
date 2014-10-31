@@ -1,6 +1,6 @@
 {
   "name": "sherlockjs",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "A natural language datetime parser",
   "main": "index.js",
   "scripts": {
